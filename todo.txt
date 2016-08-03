@@ -1,0 +1,9 @@
+--TODO--
+1. Organizzare il codice in più file, tutte le definizioni in .h
+2. Finire le funzioni listate nel main
+3. Testare il fs con operazioni varie
+4. Compressione della bitmap
+5. Sostituire tutti i 0b con 0x
+6. Tutte le moltiplicazioni per potenze di 2 sostituirle con shift
+7. pensare altri punti
+
