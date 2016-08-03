@@ -30,7 +30,8 @@ int main(int argc, char **argv)
 		     "2. ls \n"
 		     "3. cd"
 		     "4. new file\n"
-		     "5. rm file\n");
+		     "5. rm file\n"
+			  "6. new dir");
 
 		switch(c=getchar())
 		{
